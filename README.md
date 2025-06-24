@@ -79,7 +79,7 @@ https://api.frankfurter.app/latest?amount=1&from=USD&to=INR
 ## 👤 Author
 
 **Subhadeep Dutta**  
-📧 [subhadeepduttaofficial@gmail.com](mailto:subhadeep12102001@gmail.com)  
+📧 [Email](mailto:subhadeep12102001@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/subhadeepdutta2001/)  
 🌐 [Portfolio](https://devsubhadeep.netlify.app/)
 
