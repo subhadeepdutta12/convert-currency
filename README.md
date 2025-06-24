@@ -8,14 +8,6 @@ A simple and responsive currency converter built using React and the Frankfurter
 
 ---
 
-## 📸 Preview
-
-![Convert Currency Screenshot](https://raw.githubusercontent.com/subhadeepdutta12/convert-currency/main/screenshot.png)
-
-> *(Tip: Add a screenshot named `screenshot.png` to your GitHub repo to make the preview appear here.)*
-
----
-
 ## 🛠 Features
 
 - 🔁 Real-time currency conversion
@@ -63,7 +55,7 @@ convert-currency/
 git clone https://github.com/subhadeepdutta12/convert-currency.git
 cd convert-currency
 npm install
-npm start
+npm run dev
 ```
 
 Navigate to `http://localhost:3000` to view it in your browser.
@@ -87,9 +79,9 @@ https://api.frankfurter.app/latest?amount=1&from=USD&to=INR
 ## 👤 Author
 
 **Subhadeep Dutta**  
-📧 [subhadeepduttaofficial@gmail.com](mailto:subhadeepduttaofficial@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/subhadeep-dutta-8738b22b9/)  
-🌐 [Portfolio](https://subhadeepdutta12.github.io/)
+📧 [subhadeepduttaofficial@gmail.com](mailto:subhadeep12102001@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/subhadeepdutta2001/)  
+🌐 [Portfolio](https://devsubhadeep.netlify.app/)
 
 ---
 
